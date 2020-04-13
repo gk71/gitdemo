@@ -1,2 +1,6 @@
+adding new lines to 1.txt
+
 This is the first file 
 created in the master branch
+
+this is teh last line

@@ -1,6 +1,8 @@
-adding new lines to 1.txt
+removed  lines to 1.txt
 
 This is the first file 
 created in the master branch
 
 this is teh last line
+
+the line has been edited in the local repo 

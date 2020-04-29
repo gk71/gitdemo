@@ -1,0 +1,7 @@
+
+altering file for merge conflict
+this file 
+has been update
+created in 
+
+branch b1

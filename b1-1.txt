@@ -1,4 +1,4 @@
-
+i this file has been changed
 altering file for merge conflict
 this file 
 has been update
